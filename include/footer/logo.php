@@ -1,0 +1,1 @@
+<img alt="facebook" src="/bitrix/templates/site_red/css/themes/images/logo-footer.png">

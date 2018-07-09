@@ -1,0 +1,31 @@
+/*by ko 01.01.2017*/
+/*.services_element > div img{
+	max-width: 230px !important;
+	max-height: 230px !important;
+}*/
+.about_company{
+	    margin-top: 50px !important;
+}
+.show_msg_razmer_pizza{
+	display: none;
+	color: red;
+}
+.services_element {
+    height: 555px !important;
+}
+.services_element .action2 {
+    z-index: 1;
+	position: absolute;
+    border: none;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 117px;
+    height: 28px;
+    background: url(../../../../css/themes/images/action.png) no-repeat;
+}
+.tovar_zoom.animate{
+	width: 420px !important;
+}
+.tovar_zoom{
+	left: -60px !important;
+}

@@ -1,0 +1,1 @@
+<img src="<?=SITE_TEMPLATE_PATH;?>/css/themes/images/pros/protection_icon_blue.png" alt="" />

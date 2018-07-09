@@ -1,0 +1,1 @@
+<img src="<?=SITE_TEMPLATE_PATH;?>/css/themes/images/pros/froze_icon_green.png" alt="" />

@@ -1,0 +1,3 @@
+	<a href="http://vk.com" target="_blank"><img src="<?=SITE_TEMPLATE_PATH;?>/css/themes/images/vk.png" class="vk_icon_header"></a>
+					<a href="http://fb.com" target="_blank"><img src="<?=SITE_TEMPLATE_PATH;?>/css/themes/images/fb.png" class="fb_icon_header"></a>
+					<a href="https://www.instagram.com/" target="_blank"><img src="<?=SITE_TEMPLATE_PATH;?>/css/themes/images/instagramm.png" class="inst_icon_header"></a>

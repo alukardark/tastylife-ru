@@ -1,0 +1,1 @@
+<img class="social_vk" src="<?=SITE_TEMPLATE_PATH;?>/css/themes/images/instagramm_icon.png" alt="vk" />
